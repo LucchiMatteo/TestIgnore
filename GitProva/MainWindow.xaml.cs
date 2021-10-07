@@ -24,5 +24,10 @@ namespace GitProva
         {
             InitializeComponent();
         }
+
+        private void btnTest_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show(txtInput.Text);
+        }
     }
 }
