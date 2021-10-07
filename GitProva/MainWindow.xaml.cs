@@ -27,7 +27,7 @@ namespace GitProva
 
         private void btnTest_Click(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("CIAO");
+            MessageBox.Show("SALUTI");
         }
     }
 }
