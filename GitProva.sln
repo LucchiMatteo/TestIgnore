@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitProva", "GitProva\GitProva.csproj", "{84C20BF7-F927-4A04-9F97-81D0DB25C04A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84C20BF7-F927-4A04-9F97-81D0DB25C04A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84C20BF7-F927-4A04-9F97-81D0DB25C04A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84C20BF7-F927-4A04-9F97-81D0DB25C04A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84C20BF7-F927-4A04-9F97-81D0DB25C04A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F41B9B4C-A4DA-46E9-9061-D61452A17F94}
+	EndGlobalSection
+EndGlobal
