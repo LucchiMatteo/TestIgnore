@@ -10,6 +10,7 @@
         <Button x:Name="btnTest" Content="Button" HorizontalAlignment="Left" Margin="198,100,0,0" VerticalAlignment="Top" Height="69" Width="128" Click="btnTest_Click"/>
         <TextBox x:Name="txtInput" HorizontalAlignment="Left" Margin="219,217,0,0" Text="TextBox" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
         <ListBox HorizontalAlignment="Left" Height="238" Margin="474,100,0,0" VerticalAlignment="Top" Width="255"/>
+        <Label x:Name="lblOutput" Content="Label" HorizontalAlignment="Left" Height="27" Margin="120,311,0,0" VerticalAlignment="Top" Width="206"/>
 
     </Grid>
 </Window>
